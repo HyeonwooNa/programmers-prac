@@ -1,5 +1,5 @@
 class Solution {
-        public static int solution(int n) {
+    public static int solution(int n) {
         int tmp = 0;
 
         for (int i = 0; i < n; i++) {
